@@ -1,0 +1,10 @@
+Timestamp,Target_Country,Target_Type,Facility_Name,Munition_Type,Impact_Severity
+2024-03-15T12:00:00Z,Saudi Arabia,Oil Facility,Abqaiq Processing,Shahed-136,Moderate
+2024-11-20T04:30:00Z,UAE,Port,Fujairah Port,Quds-2,High
+2025-05-10T18:45:00Z,Bahrain,Military Base,Isa Air Base,Fateh-110,Severe
+2026-03-01T02:15:00Z,UAE,Data Center,AWS Middle East (UAE) Region - DXB,Shahed-131,Critical
+2026-03-01T03:00:00Z,Bahrain,Data Center,AWS Middle East (Bahrain) Region - BAH,Fateh-110,Critical
+2026-03-01T03:45:00Z,Saudi Arabia,Digital Infrastructure,Riyadh Internet Core,Zolfaghar,High
+2026-03-02T11:20:00Z,UAE,Digital Infrastructure,Abu Dhabi Telecom Hub,Shahed-136,Severe
+2026-03-03T14:10:00Z,Qatar,Data Center,Doha Central Hub,Quds-2,Moderate
+2026-03-05T01:30:00Z,Oman,Port,Salalah Port,Shahed-131,Low
