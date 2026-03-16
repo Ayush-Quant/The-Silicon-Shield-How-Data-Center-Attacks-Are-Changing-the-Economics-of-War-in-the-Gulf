@@ -1,4 +1,4 @@
-# 🛡️ The Silicon Shield: Kinetic-to-Compute Risk Modeling
+# 🛡️ The Silicon Shield: How Data Center Attacks Are Changing the Economics of War in the Gulf
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active%20Research-success.svg)
